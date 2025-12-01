@@ -371,7 +371,7 @@ footer div{
 
 footer article{
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
 }
 
 footer article section{

@@ -66,6 +66,8 @@ inicializarCarrossel();
 
 
 
+//------------------- Contador automatico ----------------------
+
 var numeros = document.getElementsByClassName("numeroAuto");
 
 function contadorAnimado(elemento, valorFinal, duracao = 3000) {
